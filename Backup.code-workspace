@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../JM page/image"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Backup"
+  }
+}

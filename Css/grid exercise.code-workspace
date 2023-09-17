@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../grid exercise"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Backup"
+  }
+}
